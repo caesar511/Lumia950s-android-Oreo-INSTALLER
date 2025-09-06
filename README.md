@@ -1,6 +1,6 @@
-# LK installer.
+# installer.
 
-A Powershell script to install Developer menu, bootshim and LK onto your Lumia
+A Commands promt script to install Developer menu, bootshim and LK onto your Lumia
 ## MAKE SURE YOU HAVE PLATFORM TOOLS AND ADB DRIVERS INSTALLED SYSTEM WIDE!
 
 ## Instructions
@@ -13,7 +13,8 @@ A Powershell script to install Developer menu, bootshim and LK onto your Lumia
 -   Reboot the device (keep pressed power key)
 -   Device should output some print stuff then go into a black screen, you SHOULD be in LK by that point.(check device manager and install [drivers](https://developer.android.com/studio/run/win-usb))
 -   The script will boot you in TWRP, make the partitions needed for android and back up your provisioned partitions.
--   You will reboot to the bootloader after this process is done, it will flash TWRP and reboot to it again.
--   Then you will have to sideload the LOS rom of your choice (for now only 18.1 is available).
 -   Then continue with the script, it will reboot you to the bootloader to flash the kernel, (WIP: and modem) then boot you in android.
+
 -   Enjoy!
+-   SUPER THANKS TO Android4Lumia950/XL
+-   This is Mod to automatic flash everything NEED
