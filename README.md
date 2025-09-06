@@ -1,4 +1,4 @@
-I AM NOT RESIPONSIBILITY FOR ANY DAMAGE
+I AM NOT RESIPONSIBILITY FOR ANY DAMAGE.
 THANKS To Android4Lumia950/XL
 This script will automatic install Android oreo on your Lumia950s [Cityman/Talkman]
 Pre-Requirement
